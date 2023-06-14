@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-14T12:30:37 GMT+05:30" name="Default suite" finished-at="2023-06-14T12:30:50 GMT+05:30" duration-ms="12469">
+    <groups>
+    </groups>
+    <test started-at="2023-06-14T12:30:37 GMT+05:30" name="Default test" finished-at="2023-06-14T12:30:50 GMT+05:30" duration-ms="12469">
+      <class name="pkgpjct.Sauce">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pkgpjct.Sauce@4f2b503c]" started-at="2023-06-14T12:30:37 GMT+05:30" name="setup" finished-at="2023-06-14T12:30:43 GMT+05:30" duration-ms="5168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="url()[pri:0, instance:pkgpjct.Sauce@4f2b503c]" started-at="2023-06-14T12:30:43 GMT+05:30" name="url" finished-at="2023-06-14T12:30:45 GMT+05:30" duration-ms="2352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="test()[pri:0, instance:pkgpjct.Sauce@4f2b503c]" started-at="2023-06-14T12:30:45 GMT+05:30" name="test" finished-at="2023-06-14T12:30:50 GMT+05:30" duration-ms="4869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- pkgpjct.Sauce -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
